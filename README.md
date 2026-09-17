@@ -238,4 +238,4 @@ This repository serves as the official landing page for Legend: Hand of God. The
 **Get the most recent version of Legend: Hand of God today!**
 
 ---
-**Last updated:** 2026-09-17 14:39:32 UTC
+**Last updated:** 2026-09-17 18:47:50 UTC
